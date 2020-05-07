@@ -1,0 +1,22 @@
+{
+  "name": "@finoer/logger",
+  "version": "0.0.1",
+  "description": "logger tools for finoer",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finoer/finoer-logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "fusong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finoer/finoer-logger/issues"
+  },
+  "homepage": "https://github.com/finoer/finoer-logger#readme"
+}
